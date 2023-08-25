@@ -24,9 +24,9 @@
 
 <!---<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=remy01gh&show_icons=true&locale=en&layout=compact" alt="remy01gh" /></p> --->
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=remy01gh&show_icons=true&locale=en" alt="remy01gh" /></p>
+<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=remy01gh&show_icons=true&locale=en" alt="remy01gh" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=remy01gh&" alt="remy01gh" /></p>
+<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=remy01gh&" alt="remy01gh" /></p>
 
 <!---
 remy01gh/remy01gh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
