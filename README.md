@@ -1,6 +1,22 @@
 <h1 align="center">Hi 👋, I'm Johnremy</h1>
 <h3 align="center">A creative web developer</h3>
-<p>I am an <b>Angular</b> and <b>Laravel</b> developer with skills on languages like <b>vanillaJS</b> and <b>core PHP</b> and library/framework such as React and Express.  I make only the repositories of my personal projects public, while the repositories of cooperate and organizational projects are private due to confidentiality of data.</p>
+<p>
+  I am an experienced developer with expertise in various technologies and frameworks. My skills encompass:
+</p>
+
+<ul>
+  <li><b>Angular:</b> I specialize in creating web applications using Angular.</li>
+  <li><b>Laravel:</b> I have a strong command of the Laravel PHP framework for building robust backends.</li>
+  <li><b>Vanilla JavaScript (vanillaJS):</b> I'm proficient in the fundamentals of JavaScript.</li>
+  <li><b>Core PHP:</b> I have experience in PHP development, including core PHP.</li>
+  <li><b>React:</b> I am familiar with the React library for building interactive user interfaces.</li>
+  <li><b>Express:</b> I have experience with the Express.js framework for building Node.js applications.</li>
+</ul>
+
+<p>
+  I follow a practice of making the repositories of my personal projects public, allowing others to explore and learn from them. However, I keep the repositories of corporate and organizational projects private to maintain the confidentiality of sensitive data.
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=remy01gh&label=Profile%20views&color=0e75b6&style=flat" alt="remy01gh" /> </p>
 
