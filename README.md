@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Johnremy</h1>
 <h3 align="center">A creative web developer</h3>
 <p>
-  I am an experienced developer with expertise in various technologies and frameworks. My skills encompass:
+  I am an experienced developer with expertise in various technologies and frameworks. My skill set includes:
 </p>
 
 <ul>
