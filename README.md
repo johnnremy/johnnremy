@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Johnremy</h1>
 <h3 align="center">A creative web developer</h3>
+<p>I am an <b>Angular</b> and <b>Laravel</b> developer with skills on languages like <b>vanillaJS</b> and <b>core PHP</b> and library/framework such as React and Express.  I make only the repositories of my personal projects public, while the repositories of cooperate and organizational projects are private due to confidentiality of data.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=remy01gh&label=Profile%20views&color=0e75b6&style=flat" alt="remy01gh" /> </p>
 
