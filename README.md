@@ -24,7 +24,7 @@
 
 - 🔭 I’m currently working on [Netflix Clone](https://netflix-clone-johnremy.vercel.app/)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Nest.js**
 
 - 👯 I’m looking to collaborate on **Full Stack Web Development Projects**
 
