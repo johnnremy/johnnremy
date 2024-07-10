@@ -22,7 +22,7 @@
 
 <p align="left"> <a href="https://twitter.com/itzjohnremy" target="blank"><img src="https://img.shields.io/twitter/follow/itzjohnremy?logo=twitter&style=for-the-badge" alt="itzjohnremy" /></a> </p>
 
-- 🔭 I’m currently working on [Netflix Clone](https://netflix-clone-johnremy.vercel.app/)
+- 🔭 I’m currently working on [E-Voting](https://github.com/johnnremy)
 
 - 🌱 I’m currently learning **Nest.js**
 
