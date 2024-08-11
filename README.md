@@ -2,7 +2,7 @@
 <h3 align="center">A creative web developer</h3>
 
 <p>
-<b>Full Stack Developer | Expertise in Angular, Laravel, NestJS, and Flutter</b>
+<b>Full Stack Developer | Expertise in Angular, Laravel, NestJS, and Flutter.</b>
 
 As a Full Stack Developer, I bring a comprehensive skill set in JavaScript, TypeScript, PHP, and Dart, with a focus on Angular, Laravel, NestJS, and Flutter. My proficiency in database management spans MySQL, PostgreSQL, and MongoDB, enabling me to create scalable, data-driven solutions that meet the demands of modern applications.
 
@@ -25,6 +25,8 @@ I am always eager to take on new challenges and contribute to projects that make
   <li><b>React:</b> I am familiar with the React library for building interactive user interfaces.</li>
   <li><b>Express:</b> I have experience with the Express.js framework for building Node.js applications.</li> -->
 </ul>
+
+<hr>
 
 <p>
   I follow a practice of making the repositories of my personal projects public, allowing others to explore and learn from them. However, I keep the repositories of corporate and organizational projects private to maintain the confidentiality of sensitive data.
