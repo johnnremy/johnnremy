@@ -1,16 +1,29 @@
 <h1 align="center">Hi 👋, I'm Johnremy</h1>
 <h3 align="center">A creative web developer</h3>
+
 <p>
-  I am an experienced developer with expertise in various technologies and frameworks. My skill set includes:
+<b>Full Stack Developer | Expertise in Angular, Laravel, NestJS, and Flutter</b>
+
+As a Full Stack Developer, I bring a comprehensive skill set in JavaScript, TypeScript, PHP, and Dart, with a focus on Angular, Laravel, NestJS, and Flutter. My proficiency in database management spans MySQL, PostgreSQL, and MongoDB, enabling me to create scalable, data-driven solutions that meet the demands of modern applications.
+
+I possess a deep understanding of software development principles, algorithms, and data structures, which I leverage to build robust server-side applications and optimize database performance. My experience in deploying and managing web applications using Laravel and NestJS equips me to handle complex web server tasks efficiently.
+
+Dedicated to crafting RESTful APIs, I ensure seamless interaction between frontend and backend systems, enhancing overall application performance. I thrive in both solo and team environments, valuing communication, collaboration, and the ability to quickly adapt to new technologies.
+
+I am always eager to take on new challenges and contribute to projects that make a meaningful impact.
 </p>
 
+<!-- <p>
+  I am an experienced developer with expertise in various technologies and frameworks. My skill set includes:
+</p> -->
+
 <ul>
-  <li><b>Angular:</b> I specialize in creating web applications using Angular.</li>
+<!--   <li><b>Angular:</b> I specialize in creating web applications using Angular.</li>
   <li><b>Laravel:</b> I have a strong command of the Laravel PHP framework for building robust backends.</li>
   <li><b>Vanilla JavaScript (vanillaJS):</b> I'm proficient in the fundamentals of JavaScript.</li>
   <li><b>Core PHP:</b> I have experience in PHP development, including core PHP.</li>
   <li><b>React:</b> I am familiar with the React library for building interactive user interfaces.</li>
-  <li><b>Express:</b> I have experience with the Express.js framework for building Node.js applications.</li>
+  <li><b>Express:</b> I have experience with the Express.js framework for building Node.js applications.</li> -->
 </ul>
 
 <p>
