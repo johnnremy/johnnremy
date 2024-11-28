@@ -2,9 +2,9 @@
 <h3 align="center">A creative web developer</h3>
 
 <p>
-<b>Full Stack Developer | Expertise in NextJs, Angular, Laravel, and Flutter.</b>
+<b>Full Stack Developer | Expertise in Next.js, Angular, Laravel, and Flutter.</b>
 
-As a Full Stack Developer, I bring a comprehensive skill set in JavaScript, TypeScript, PHP, and Dart, with a focus on NextJs, Angular, Laravel, and Flutter. My proficiency in database management spans MySQL, PostgreSQL, and MongoDB, enabling me to create scalable, data-driven solutions that meet the demands of modern applications.
+As a Full Stack Developer, I bring a comprehensive skill set in JavaScript, TypeScript, PHP, and Dart, with a focus on Next.js, Angular, Laravel, and Flutter. My proficiency in database management spans MySQL, PostgreSQL, and MongoDB, enabling me to create scalable, data-driven solutions that meet the demands of modern applications.
 
 I possess a deep understanding of software development principles, algorithms, and data structures, which I leverage to build robust server-side applications and optimize database performance. My experience in deploying and managing web applications using Laravel and NestJS equips me to handle complex web server tasks efficiently.
 
